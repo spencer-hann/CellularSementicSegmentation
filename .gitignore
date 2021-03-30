@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+data/
+_data_org_main.py
+src/Data/_data_organization_script.py
+figures/progress_reports/
+SpencerHann_submission_folder
+SpencerHann_submission_folder.tar.xz
+
+Models/
+

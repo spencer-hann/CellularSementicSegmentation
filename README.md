@@ -1,6 +1,6 @@
 # Semantic Segmentation of Cell Electron Microscopy Images
 
-Read the paper ![here](https://github.com/spencer-hann/CellularSementicSegmentation/SpencerHann_FinalPaper.pdf)!
+Read the paper ![here](https://github.com/spencer-hann/CellularSementicSegmentation/blob/main/SpencerHann_FinalPaper.pdf)!
 
 To view results, run one of `seg_test.py`, `generator_viewer.py`, or `report_visualizations.py`.
 
